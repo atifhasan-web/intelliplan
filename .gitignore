@@ -6,7 +6,8 @@
 # Next.js
 /.next/
 /out/
-
+.idx
+docs
 # Production
 /build
 
