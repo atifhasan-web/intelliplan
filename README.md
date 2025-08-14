@@ -2,16 +2,13 @@
 
 IntelliPlan is a modern, responsive web application designed to help students organize their study schedules, track their progress, and stay focused on their academic goals. It provides a comprehensive suite of tools including a Pomodoro timer, task management, goal setting, and an AI-powered schedule generator to create a personalized learning experience.
 
-![IntelliPlan Screenshot](https://placehold.co/800x400.png)
 
 ## Key Features
 
 - **Dashboard:** A central hub for a snapshot of your study activities, including today's tasks and a study calendar.
 - **Task Manager:** Create, track, and manage your academic tasks and assignments with priorities and due dates.
 - **Pomodoro Timer:** A customizable Pomodoro timer to help you stay focused during study sessions and take effective breaks.
-- **Progress Tracking:** Visualize your weekly study hours and time spent per subject with insightful charts and graphs.
 - **Goal Setting:** Define and monitor your academic goals for different subjects to stay motivated and on track.
-- **AI Schedule Generator:** Leverage the power of AI to generate a personalized study schedule based on your goals, deadlines, and past performance.
 - **Secure Authentication:** Easy and secure sign-up and login functionality using Firebase Authentication with support for email/password and Google Sign-In.
 - **Responsive Design:** A fully responsive user interface that works seamlessly across desktops, tablets, and mobile devices.
 
@@ -19,9 +16,8 @@ IntelliPlan is a modern, responsive web application designed to help students or
 
 - **Framework:** [Next.js](https://nextjs.org/) (React)
 - **Styling:** [Tailwind CSS](https://tailwindcss.com/) with [ShadCN UI](https://ui.shadcn.com/) components
-- **Generative AI:** [Google's Gemini model](https://ai.google.dev/) via [Genkit](https://firebase.google.com/docs/genkit)
 - **Backend & Authentication:** [Firebase](https://firebase.google.com/)
-- **Deployment:** Vercel / Firebase App Hosting
+- **Deployment:** Vercel
 
 ## Getting Started
 
@@ -36,8 +32,8 @@ To get a local copy up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```sh
-    git clone https://github.com/your-username/intelliflow.git
-    cd intelliflow
+    git clone https://github.com/Atifhasan250/intelliplan.git
+    cd intelliplan
     ```
 
 2.  **Install dependencies:**
